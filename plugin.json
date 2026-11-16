@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "noibu",
+  "version": "1.0.0",
+  "description": "Analyze ecommerce conversion, shopper behavior, errors, and page speed with Noibu data, and fix what you find in your store's code, right from GitHub Copilot in VS Code.",
+  "author": {
+    "name": "Noibu",
+    "email": "support@noibu.com",
+    "url": "https://noibu.com"
+  },
+  "homepage": "https://noibu.com",
+  "repository": "https://github.com/Noibu/ai-plugin-vscode",
+  "license": "MIT",
+  "keywords": [
+    "ecommerce",
+    "analytics",
+    "conversion",
+    "core-web-vitals",
+    "accessibility",
+    "experiments"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "noibu",
+  "owner": {
+    "name": "Noibu",
+    "email": "support@noibu.com"
+  },
+  "metadata": {
+    "description": "Official Noibu plugin for GitHub Copilot in VS Code"
+  },
+  "plugins": [
+    {
+      "name": "noibu",
+      "source": "./",
+      "description": "Analyze ecommerce conversion, shopper behavior, errors, and page speed with Noibu data, and fix what you find in your store's code.",
+      "version": "1.0.0",
+      "homepage": "https://noibu.com",
+      "license": "MIT"
+    }
+  ]
+}
